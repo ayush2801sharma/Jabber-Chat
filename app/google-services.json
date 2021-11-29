@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81844858885",
+    "project_id": "jabberchat-2e641",
+    "storage_bucket": "jabberchat-2e641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81844858885:android:42c491a1045b5802856c6c",
+        "android_client_info": {
+          "package_name": "com.example.jabberchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81844858885-6f6qlt4rrmn1aem436ltftt1ce26hool.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyiYDlrVjUv1zWVhIdMwyEIv3RbUHu3GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81844858885-6f6qlt4rrmn1aem436ltftt1ce26hool.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
